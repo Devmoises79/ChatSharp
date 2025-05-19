@@ -2,7 +2,7 @@
 Fala Dev!
 
 Este é um projeto simples de chat interativo com inteligência artificial, criado em **C#** utilizando a biblioteca **ML.NET**. O sistema identifica a intenção do usuário com base na frase digitada e responde automaticamente de acordo com a previsão feita pelo modelo treinado.
-Além disso, essa é uma das maneiras de praticar e aprimorar o conhecimento em programação em uma linguagem versátil e potente como é o C# (através da platamorfa .Net).
+Além disso, essa é uma das maneiras de aprender um pouco mais sobre IAs e a sua implementação e praticar e também aprimorar o conhecimento em programação em uma linguagem versátil e potente como é o C# (através da platamorfa .Net).
 
 ---
 
